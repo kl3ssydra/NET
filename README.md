@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  .NET è una piattaforma open source per la creazione di applicazioni desktop, Web e mobili che possono essere eseguite in modo nativo su qualsiasi sistema operativo. Il   sistema .NET include strumenti, librerie e linguaggi che supportano lo sviluppo di software moderno, scalabile e ad alte prestazioni. Una community di sviluppatori attiva gestisce e supporta la piattaforma .NET.
+  .NET is an open source platform for building desktop, web and mobile applications that can run natively on any operating system. The .NET system includes tools, libraries and languages that support modern, scalable and high-performance software development. An active developer community manages and supports the .NET platform.
 </p>
 
 <br>

@@ -9,5 +9,6 @@
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59760485/196515015-7b88cdc1-6655-4150-8e84-78d3d0d58247.jpg">
+  <img src="https://user-images.githubusercontent.com/59760485/196750288-a8397ae6-7fdc-4cec-aed4-08c3b308f96a.png">
 </p>
+
